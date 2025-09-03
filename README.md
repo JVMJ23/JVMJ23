@@ -1,16 +1,23 @@
-## Hi there 👋
+##👋Olá! Eu sou o João Vitor Santos Silva
 
-<!--
-**JVMJ23/JVMJ23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Formado em Analise e desenvolvimento de Sistemas pela faculdade Unicesumar*
 
-Here are some ideas to get you started:
+Iniciando minha carreira na área de tecnologia com base inicial em *HTML,CSSe JavaScript*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apaixonado por tecnologia, videogames, esportes, estatística e números - sempre curioso e buscando aprender mais!!
+
+##PROJETOS DESENVOLVIDOS
+
+*
+*
+*
+
+
+##TECNOLOGIAS E FERRAMENTAS
+
+*LINGUAGEM:* HTML, CSS E JAVASCRIPT
+
+
+##Se Conecte comigo
+
+* *LinkedIn:*[João Vitor Santos Silva] (https://www.linkedin.com/in/jo%c3%A3o-vitor-santos-silva-8a135b20a)
